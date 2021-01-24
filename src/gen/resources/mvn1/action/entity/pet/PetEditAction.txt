@@ -1,7 +1,0 @@
-title=Pet
-
-icon=fa fa-qq
-
-form-focusme=true
-
-
